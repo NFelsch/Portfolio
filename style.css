@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+}
+
+.nav-bar {
+    background-color: rgba(0,0,0, .05);
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    padding: 8px;
+    display: inline-block;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 27px;
+    left: 500px;
+ 
+}
+
